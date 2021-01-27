@@ -17,14 +17,9 @@ To have a correct view of the site it is necessary to download the following fon
 
 This project was tested on the folowing responsive sizes:
 
-**Laptop - 1400px**
-![Laptop](https://i.ibb.co/JqFNw6d/60df485eb772ecbad54a-2.jpg)
-
-**Tablet - 768px**
-![Tablet](https://i.ibb.co/9s0CSVS/60df485eb772ecbad54a-2.jpg)
-
-**Mobile M - 375px**
-![Mobile](https://i.ibb.co/6HpdzrL/60df485eb772ecbad54a.jpg)
+-   _Laptop - 1400px_
+-   _Tablet - 768px_
+-   _Mobile M - 375px_
 
 # Web-page sections
 
