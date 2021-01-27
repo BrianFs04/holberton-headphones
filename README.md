@@ -32,7 +32,7 @@ Click on them to have a preview
 -   [**"What we do..." section**](https://htmlpreview.github.io/?https://github.com/BrianFs04/holberton-headphones/blob/master/1-index.html)
 -   [**"Our results" section**](https://htmlpreview.github.io/?https://github.com/BrianFs04/holberton-headphones/blob/master/2-index.html)
 -   [**Contact us**](https://htmlpreview.github.io/?https://github.com/BrianFs04/holberton-headphones/blob/master/3-index.html)
--   [**Footer**]()
+-   [**Footer**](https://htmlpreview.github.io/?https://github.com/BrianFs04/holberton-headphones/blob/master/4-index.html)
 
 # Accessibility
 
