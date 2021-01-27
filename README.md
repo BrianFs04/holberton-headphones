@@ -5,7 +5,8 @@ In this project, it is implemented from scratch, without any library, a web page
 Here is the finalt result of it on desktop version
 ![Desktop](https://i.ibb.co/wMnMwjP/3b5a9f7948a58d58bd43.gif)
 
-And on the mobile one
+And on the mobile one:
+
 ![Mobile](https://i.ibb.co/1KS1Mw7/83d6311e87d4775ca4b3.gif)
 
 # Necessary fonts
@@ -16,13 +17,14 @@ To have a correct view of the site it is necessary to download the following fon
 
 This project was tested on the folowing responsive sizes:
 
--   Laptop - 1400px
--   Tablet - 768px
--   Mobile M - 375px
+**Laptop - 1400px**
+![Laptop](https://i.ibb.co/JqFNw6d/60df485eb772ecbad54a-2.jpg)
 
-Here is the preview respectively as the were mentioned above
+**Tablet - 768px**
+![Tablet](https://i.ibb.co/9s0CSVS/60df485eb772ecbad54a-2.jpg)
 
-![Responsive](https://i.ibb.co/RDpPZKf/60df485eb772ecbad54a.jpg)
+**Mobile M - 375px**
+![Mobile](https://i.ibb.co/6HpdzrL/60df485eb772ecbad54a.jpg)
 
 # Web-page sections
 
